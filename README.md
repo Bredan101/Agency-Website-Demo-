@@ -14,9 +14,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Desinic Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -26,7 +23,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Desinic** locally, run this command on your git bash:
+To run **Demo** locally, run this command on your git bash:
 
 Linux and macOS:
 
